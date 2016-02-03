@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/llamadas"
+            android:icon="@mipmap/ic_call_black_24dp"
+            android:title="@string/llamadas" />
+        <item
+            android:id="@+id/salientes"
+            android:icon="@mipmap/ic_call_made_black_24dp"
+            android:title="@string/salientes" />
+        <item
+            android:id="@+id/entrantes"
+            android:icon="@mipmap/ic_call_received_black_24dp"
+            android:title="@string/entrantes" />
+    </group>
+
+</menu>

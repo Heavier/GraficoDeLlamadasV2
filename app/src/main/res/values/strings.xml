@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GraficoDeLlamadas</string>
+
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+
+    <string name="tutorialOn">Mostrar tutorial</string>
+
+    <string name="llamadas">Todas las llamadas</string>
+    <string name="salientes">Llamadas salientes</string>
+    <string name="entrantes">Llamadas entrandes</string>
+
+    <string name="hola">Bienvenido a la pantalla principal,
+    despliega el menú lateral de la izquierda para acceder a cada una de las estadísticas.</string>
+    <string name="lista">Para ver mejor la lista de llamadas registradas toca en cualquier parte.</string>
+    <string name="nuevos">Para insertar algunas llamadas de prueba pulsa aquel botón flotante de abajo.</string>
+
+    <string name="miNombre">Javier Martín Fernández</string>
+    <string name="practica">Broadcast Receiver y WebView</string>
+
+    <string name="sinLlamadas">No hay llamadas registradas, cierra la aplicación y espera a que te llamen.</string>
+</resources>
